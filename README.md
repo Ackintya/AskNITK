@@ -1,7 +1,8 @@
-# Quora-Clone
-This is a Quora clone built of MERN Stack 
+# AskNITK
+This is a Question based application built upon MERN Stack 
+inspired by stackoverflow,quora,YahooAnswers etc.
 
-## Desired Features:
+## Current Features:
 
 - [ ] Authentication
   - [ ] Signup
@@ -15,5 +16,5 @@ This is a Quora clone built of MERN Stack
 - [ ] User gets notified when his/her question is answered
 - [ ] Making web app realtime
 
-## Current Features:
+
 
